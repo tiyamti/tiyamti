@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/your-username/your-repo/blob/main/assets/hacker-themed-image.png" width="600"/>
 </p>
 
 <h1 align="center">Hi there! I'm a Cybersecurity Enthusiast 👨‍💻</h1>
@@ -81,5 +79,5 @@
 - 🌐 [Personal Blog](https://yourblog.com)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjHWLNZLP7xMrrss/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/l1J9s3VaQkmjHI1T6/giphy.gif" width="400"/>
 </p>

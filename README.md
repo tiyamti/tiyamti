@@ -24,7 +24,7 @@
 - **⚔️ Red Team Adventures:** Practicing ethical hacking techniques and developing offensive security tools.
 - **🧬 Malware Dissection:** Diving into reverse engineering and static/dynamic malware analysis.
 - **💡 HID Exploits:** Exploring creative ways to use Human Interface Devices in cyber attacks.
-
+im working on them , sssssssssssssssooooooooo wait!
 ---
 
 ### 🔥 GitHub Stats:

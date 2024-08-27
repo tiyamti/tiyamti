@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/hacker-themed-image.png" width="600"/>
+  <img src="https://github.com/your-username/your-repo/blob/main/assets/hacker-themed-image.png](https://github.com/tiyamti/tiyamti/blob/main/Hacker%20Anime%20character.jpg" width="600"/>
 </p>
 
 <h1 align="center">Hi there! I'm a Cybersecurity Enthusiast 👨‍💻</h1>

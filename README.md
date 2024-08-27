@@ -26,15 +26,6 @@
 - **💡 HID Exploits:** Exploring creative ways to use Human Interface Devices in cyber attacks.
 ---
 
-### 🔥 GitHub Stats:
-
-<p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&langs_count=6)
-
-</p>
-
----
 
 ### 💼 Featured Projects:
 
@@ -45,10 +36,10 @@
 - - im working on them , sssssssssssssssooooooooo wait!
 ---
 
-### 📊 Contribution Graph:
+
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=rogue" alt="Contribution Graph" width="800"/>
+  <img src="https://github.com/tiyamti/tiyamti/blob/main/giphy.gif" width="800"/>
 </p>
 
 ---

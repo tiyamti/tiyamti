@@ -79,5 +79,4 @@
 - 🌐 [Personal Blog](https://yourblog.com)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9s3VaQkmjHI1T6/giphy.gif" width="400"/>
-</p>
+ <iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>

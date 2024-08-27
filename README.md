@@ -65,9 +65,9 @@
 ---
 
 ### 🔍 Reach Out:
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Personal Blog](https://yourblog.com)
+
+- 💼 [LinkedIn](www.linkedin.com/in/tiyam-sadat-moosavi-jad)
+
 
 
 <p align="center">

@@ -42,7 +42,7 @@
 - [🔒 **ForensicToolKit**](https://github.com/your-username/forensictoolkit): A collection of scripts for digital forensics investigations.
 - [🔥 **Malware Lab**](https://github.com/your-username/malware-lab): An analysis environment for learning and practicing malware dissection.
 - [💥 **Red Team Ops**](https://github.com/your-username/red-team-ops): Offensive security tools and scripts for penetration testing.
-
+  im  still working on them , so wait!
 ---
 
 ### 📊 Contribution Graph:

@@ -66,7 +66,7 @@
 
 ### 🔍 Reach Out:
 
-- 💼 [LinkedIn](www.linkedin.com/in/tiyam-sadat-moosavi-jad)
+- 💼 [LinkedIn]("www.linkedin.com/in/tiyam-sadat-moosavi-jad")
 
 
 

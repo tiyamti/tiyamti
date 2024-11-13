@@ -38,11 +38,7 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/tiyamti/tiyamti/blob/main/giphy.gif" width="800"/>
-</p>
 
----
 
 ### 🛠️ Tech Stack:
 
@@ -59,18 +55,5 @@
 
 ---
 
-### 📜 Fun Fact:
-> “The quieter you become, the more you can hear.” - 🎧 Hacker’s Philosophy
 
----
-
-### 🔍 Reach Out:
-
-- 💼 [LinkedIn]("www.linkedin.com/in/tiyam-sadat-moosavi-jad")
-
-
-
-<p align="center">
-<img src="https://github.com/tiyamti/tiyamti/blob/main/giphy-downsized-large.gif"   width="800"/>
-</p>
 
